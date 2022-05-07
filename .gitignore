@@ -1,11 +1,11 @@
 **/__pycache__/
 **/*.ipynb_checkpoints
-**/*.egg-info
 *.pyc
 .pytest_cache/
 .mypy_cache/
 
 venv/
+wandb/
 data/
 models/
 notebooks/
