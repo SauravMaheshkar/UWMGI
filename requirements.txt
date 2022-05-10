@@ -1,6 +1,6 @@
 albumentations==1.1.0
 black==22.3.0
-matplotlib==3.5.1
+matplotlib==3.5.2
 mypy==0.950
 numpy==1.22.3
 opencv-python==4.5.5.64
@@ -14,4 +14,4 @@ scipy==1.8.0
 segmentation-models-pytorch==0.2.1
 torch==1.11.0
 torchvision==0.12.0
-wandb==0.12.15
+wandb==0.12.16
