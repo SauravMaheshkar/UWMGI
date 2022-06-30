@@ -12,6 +12,6 @@ rich==12.4.4
 scikit-learn==1.1.1
 scipy==1.8.1
 segmentation-models-pytorch==0.2.1
-torch==1.11.0
-torchvision==0.12.0
+torch==1.12.0
+torchvision==0.13.0
 wandb==0.12.19
